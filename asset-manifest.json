@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bananamonday/static/css/main.0ffb2395.chunk.css",
+    "main.js": "/bananamonday/static/js/main.c362c73e.chunk.js",
+    "main.js.map": "/bananamonday/static/js/main.c362c73e.chunk.js.map",
+    "runtime-main.js": "/bananamonday/static/js/runtime-main.29bdb27e.js",
+    "runtime-main.js.map": "/bananamonday/static/js/runtime-main.29bdb27e.js.map",
+    "static/css/2.13fd37b7.chunk.css": "/bananamonday/static/css/2.13fd37b7.chunk.css",
+    "static/js/2.95337ab2.chunk.js": "/bananamonday/static/js/2.95337ab2.chunk.js",
+    "static/js/2.95337ab2.chunk.js.map": "/bananamonday/static/js/2.95337ab2.chunk.js.map",
+    "static/js/3.b3d0ae64.chunk.js": "/bananamonday/static/js/3.b3d0ae64.chunk.js",
+    "static/js/3.b3d0ae64.chunk.js.map": "/bananamonday/static/js/3.b3d0ae64.chunk.js.map",
+    "index.html": "/bananamonday/index.html",
+    "static/css/2.13fd37b7.chunk.css.map": "/bananamonday/static/css/2.13fd37b7.chunk.css.map",
+    "static/css/main.0ffb2395.chunk.css.map": "/bananamonday/static/css/main.0ffb2395.chunk.css.map",
+    "static/js/2.95337ab2.chunk.js.LICENSE.txt": "/bananamonday/static/js/2.95337ab2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29bdb27e.js",
+    "static/css/2.13fd37b7.chunk.css",
+    "static/js/2.95337ab2.chunk.js",
+    "static/css/main.0ffb2395.chunk.css",
+    "static/js/main.c362c73e.chunk.js"
+  ]
+}
